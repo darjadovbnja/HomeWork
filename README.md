@@ -1,1 +1,1 @@
-# HomeWork
+# Repository for training by Baranscev HomeWork
